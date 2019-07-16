@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Too much JS]]></title><description><![CDATA[A blog about JS and React]]></description><link>https://gemcave.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 24 Jun 2019 05:39:35 GMT</lastBuildDate><item><title><![CDATA[Ресурсы по JS и React]]></title><description><![CDATA[Первый пост в блоге будет про не очень популярные ресурсы для изучения фронтенда. Здесь не будет ссылок на торренты, и другие ресурсы такого…]]></description><link>https://gemcave.github.io/hello-world/</link><guid isPermaLink="false">https://gemcave.github.io/hello-world/</guid><pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Первый пост в блоге будет про не очень популярные ресурсы для изучения фронтенда. Здесь не будет ссылок на торренты, и другие ресурсы такого рода.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Too much JS]]></title><description><![CDATA[A blog about JS and React]]></description><link>https://gemcave.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Jul 2019 18:37:24 GMT</lastBuildDate><item><title><![CDATA[Ресурсы по JS и React]]></title><description><![CDATA[Не очень популярные ресурсы для изучения фронтенда.ReactReact ResourcesCOMPLETE INTRO TO REACT V5React + Redux - Профессиональная…]]></description><link>https://gemcave.github.io/hello-world/</link><guid isPermaLink="false">https://gemcave.github.io/hello-world/</guid><pubDate>Wed, 12 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Не очень популярные ресурсы для изучения фронтенда.&lt;/p&gt;
 &lt;h3&gt;React&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://reactresources.com/&quot;&gt;React Resources&lt;/a&gt;&lt;/li&gt;
@@ -7,29 +7,14 @@
 &lt;li&gt;&lt;a href=&quot;https://github.com/MoonHighway/learning-react&quot;&gt;Learning React by Alex Banks and Eve Porcello&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.fullstackreact.com/&quot;&gt;Fullstack React&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.fullstackreact.com/30-days-of-react/&quot;&gt;30 Days of React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kentcdodds.com/blog/authentication-in-react-applications&quot;&gt;Authentication in React Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kentcdodds.com/blog/application-state-management-with-react&quot;&gt;Application State Management with React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kentcdodds.com/blog/how-to-use-react-context-effectively&quot;&gt;How to use React Context effectively&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Javascript&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.modernjsbyexample.net/&quot;&gt;Modern Javascript by Example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://javascript.info/&quot;&gt;The Modern JavaScript Tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://nsdateformatter.com/&quot;&gt;NSDateFormatter&lt;/a&gt;
-&lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 220px;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 104.09090909090908%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBQEE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAH0UIG0XDOdcZRBP//EABsQAAICAwEAAAAAAAAAAAAAAAACAREDEhMi/9oACAEBAAEFAmbyjxZkmlw1LG67K8HQ/8QAFxEAAwEAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwHI6f/EABcRAQADAAAAAAAAAAAAAAAAABABESH/2gAIAQIBAT8BvSD/xAAbEAABBQEBAAAAAAAAAAAAAAAAEBEhMqESM//aAAgBAQAGPwKrnmkq/GldIP/EABsQAAMAAwEBAAAAAAAAAAAAAAABESExQVFh/9oACAEBAAE/IdqdBGFFxsi9EpSd6NUr64R8hClOQMZULwN1hIl9P//aAAwDAQACAAMAAAAQLxBD/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQMUH/2gAIAQMBAT8QNuOShv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQIBAT8QU4LbuV2//8QAHhABAAMAAgIDAAAAAAAAAAAAAQARITFRYXFBgbH/2gAIAQEAAT8QHdl8HzpAl69UN+iFHI1wLreIE7Qnp6lGVTYsKjbeHmLtQ0vvJ1BC5nFfsXHZPlb3s//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;&lt;/span&gt;
-    &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Baby Accomplish Meme&quot;
-        title=&quot;&quot;
-        src=&quot;/static/b368ea3779aa525c8f3f8c334bb39095/2ce30/baby-meme.jpg&quot;
-        srcset=&quot;/static/b368ea3779aa525c8f3f8c334bb39095/8ee9c/baby-meme.jpg 148w,
-/static/b368ea3779aa525c8f3f8c334bb39095/2ce30/baby-meme.jpg 220w&quot;
-        sizes=&quot;(max-width: 220px) 100vw, 220px&quot;
-      /&gt;
-  &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nsdateformatter.com/&quot;&gt;NSDateFormatter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frontendmasters.com/courses/js-fundamentals-functional-v2/&quot;&gt;FEM, JavaScript: From Fundamentals to Functional JS, v2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item></channel></rss>
